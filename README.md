@@ -14,7 +14,7 @@ in order to finds *total spending, average price and total amount of products*
 after that, the script will access my email page and sends the analysis results
 ![image](https://user-images.githubusercontent.com/121182276/226936188-944f27bc-fb76-48c5-93fa-cde8c85772e7.png)
 
-#### Unfortunately this scripts only can run in my screen due to my own narrow development knowledge and skills.<br>
+#### Unfortunately this script only can run in my screen due to my own narrow development knowledge and skills.<br>
 But I'm working on it. 
 You also can see the script working on this video:<br>
 <a href="https://drive.google.com/file/d/1Xly6fb8gPoX6C8pbNyaj9WkpbM2y2wtY/view?usp=share_link"> Click here to see the video</a>
